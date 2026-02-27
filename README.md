@@ -1,10 +1,6 @@
 # 🚀 KELARIN. — Productivity App for Gen Z
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/usernamekamu/kelarin/main/logo_kelarin.png" alt="KELARIN Logo" width="200">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Tkinter-00FFD1?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter">
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" alt="Status">
@@ -34,7 +30,7 @@
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/usernamekamu/kelarin.git](https://github.com/usernamekamu/kelarin.git)
+    git clone [https://github.com/XDON1/Kelarin.git]
     cd kelarin
     ```
 
@@ -46,7 +42,7 @@
 
 ## 📦 Download Portable EXE
 
-Malas install Python? Kamu bisa langsung mengunduh file `.exe` yang sudah jadi di bagian [Releases](https://github.com/usernamekamu/kelarin/releases). Tinggal klik dan jalankan!
+Malas install Python? Kamu bisa langsung mengunduh file `.exe` yang sudah jadi di bagian [Releases](https://github.com/XDON1/kelarin/releases). Tinggal klik dan jalankan!
 
 ---
 
