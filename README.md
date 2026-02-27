@@ -8,7 +8,7 @@
 
 ---
 
-**KELARIN.** adalah aplikasi To-Do List berbasis desktop dengan estetika **Cyberpunk/Dark Mode** yang dirancang khusus untuk efisiensi tinggi. Dibangun menggunakan Python dan library Tkinter, aplikasi ini memastikan semua tugasmu terorganisir dengan sistem peringkat "Tier List" yang intuitif.
+**KELARIN.** adalah aplikasi To-Do List berbasis desktop dengan estetika **Cyberpunk/Dark Mode** yang dirancang khusus untuk efisiensi tinggi. Dibangun menggunakan Python dan library Tkinter, aplikasi ini memastikan semua tugasmu terorganisir dengan sistem peringkat "Tier List"
 
 
 
